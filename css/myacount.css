@@ -1,0 +1,17 @@
+.profile-image {
+    width: 100px;
+    height: 100px;
+    border-width: 5px;
+    border-style: solid;
+    border-radius: 50%;
+    border-color: #685b5b;
+    background-color: rgb(196, 192, 192);
+}
+
+#imagebox {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: auto;
+    background-color: #f0f0f0;
+}
