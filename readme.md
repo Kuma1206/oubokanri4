@@ -6,7 +6,7 @@
 ・shinki.phpで結合させたテーブルを表示    
 
 # ③DEMO
-　https://github.com/Kuma1206/oubokanri  
+　https://kuma1206.github.io/oubokanri4  
 
 # ④作ったアプリケーション用のIDまたはPasswordがある場合
 　ID: 自身のid
